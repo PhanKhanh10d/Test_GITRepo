@@ -8,7 +8,7 @@
             string conn = @"Data Source=LAPTOP-SL3OS9KO;Initial Catalog=CafeShop; User ID=sa; Password = 1;Trust Server Certificate=True";
             return conn;
         }
-
+        // Sửa ở dâyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
         public static string ImageUrl()
         {
             string imageUrl = strUrlServer;
